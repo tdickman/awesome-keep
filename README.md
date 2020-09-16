@@ -22,6 +22,6 @@ A curated list of awesome Keep / TBTC resources inspired by [@sindresorhus' awes
 
 * [Keep tools](https://keeptools.org/) - tools and resources for running nodes, updating configs, latest addresses, etc
 * [Keep token explorer](https://keep-explorer.herokuapp.com/keep)
-* [GraphQL for tBTC](https://github.com/suntzu93/tbtc-thegraph)
+* [GraphQL for tBTC](https://github.com/suntzu93/tbtc-thegraph) - Keep / tbtc api using graphql - [code](https://github.com/suntzu93/tbtc-thegraph)
 * [Dune dashboard for KEEP](https://explore.duneanalytics.com/public/dashboards/8wwpyfNUe2I25qk6du98d2JfWg5DFkeDH5HeXl38)
 * [Keep helper](https://www.keephelper.io) - random beacon dashboard + tbtc liquidation tool
