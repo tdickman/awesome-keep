@@ -13,6 +13,7 @@ A curated list of awesome Keep / TBTC resources inspired by [@sindresorhus' awes
 * [Helm chart](https://github.com/ajcrowe/keep-helm-chart)
 * [Grafana Dashboard](https://github.com/ajcrowe/keep-grafana-dashboard)
 * [tBTC Stats Bot](https://github.com/ajcrowe/tbtcbot)
+* [Verify node operations](https://keepnode.app/)
 
 ## Integrations
 
